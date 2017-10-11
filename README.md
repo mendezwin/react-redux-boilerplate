@@ -1,6 +1,6 @@
 # React Redux Boilerplate
 
-![Alt Text](./react_redux.PNG?raw=true "React Redux Diagram")
+![Alt Text](./react_redux.png?raw=true "React Redux Diagram")
 *Photo Cred: medium.freecodecamp.org/learn-how-to-build-astronomy-picture-of-the-day-app-with-nasa-api-and-react-redux-part-ii-83f15970d0e3*
 
 Notes 
